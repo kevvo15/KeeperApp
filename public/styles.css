@@ -68,6 +68,10 @@ footer p {
   background-color: transparent;
 }
 
+.plus {
+  font-size: large;
+}
+
 form {
   position: relative;
   width: 480px;
